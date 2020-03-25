@@ -1,0 +1,7 @@
+# backend
+/omnistack11-backend/node_modules
+
+# frontend
+/omnistack11-frontend/node_modules
+/omnistack11-frontend/build
+
