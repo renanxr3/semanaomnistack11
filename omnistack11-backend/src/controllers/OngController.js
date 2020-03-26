@@ -12,8 +12,6 @@ module.exports = {
     const data = request.body;
     const { name, email, whatsapp, city, uf } = request.body;
 
-    console.log(data);
-
     const id = crypto.randomBytes(4).toString("HEX");
 
     await connection("ongs").insert({
