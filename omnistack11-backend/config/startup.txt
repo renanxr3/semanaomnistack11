@@ -23,3 +23,13 @@ npx knex migrate:latest
 
 # rollback
 # npx knex migrate:rollback
+
+npm install cors
+
+# dia 05
+# validações
+# https://github.com/arb/celebrate (middleware para integrar joi com express)
+npm install celebrate
+
+# valicações
+# https://github.com/hapijs/joi
