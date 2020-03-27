@@ -33,3 +33,23 @@ npm install celebrate
 
 # valicações
 # https://github.com/hapijs/joi
+
+# testes com jest
+# https://jestjs.io/docs/en/getting-started.html
+npm install jest
+npx jest --init
+mkdir tests
+mkdir tests/unit
+mkdir tests/integration
+
+# para rodar os testes, executar?
+npm test
+
+# permitir DB de teste vs DEV
+# https://blog.rocketseat.com.br/variaveis-ambiente-nodejs/
+npm install cross-env
+
+# teste de API rest
+# https://github.com/visionmedia/supertest
+npm install supertest
+
