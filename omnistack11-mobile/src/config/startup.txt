@@ -1,0 +1,23 @@
+# confirmar npm está instalado
+npm -v
+
+# instalar expo
+npm install -g expo-cli 
+
+# criar projeto
+expo init omnistack-mobile
+
+# routes
+# https://docs.expo.io/versions/latest/guides/routing-and-navigation/
+# https://reactnavigation.org/docs/getting-started
+npm install @react-navigation/native
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npm install @react-navigation/stack
+
+
+expo install expo-constants
+
+# escrever email
+expo install expo-mail-composer
+
+# 
