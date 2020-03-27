@@ -20,4 +20,7 @@ expo install expo-constants
 # escrever email
 expo install expo-mail-composer
 
-# 
+npm install axios
+
+# instalar pacote INTL pois para Android não existe por padrão
+npm install intl
