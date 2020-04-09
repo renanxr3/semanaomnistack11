@@ -22,7 +22,7 @@ O BeTheHero é uma forma de conectar pessoas a ONGs que estejam precisando de do
 
 ## Frontend
 
-![Frontend](./assets/frontend/frontend.gif?v=4&s=100)
+![Frontend](./assets/frontend/frontend.gif)
 
 <br>
 
@@ -71,7 +71,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Install Backend dependencies
 
   ```
-  cd omnistack10-backend
+  cd omnistack11-backend
   yarn install
   ```
 
@@ -84,14 +84,14 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Install frontend dependencies
 
   ```
-  cd omnistack10-frontend
+  cd omnistack11-frontend
   yarn install
   ```
 
 - Install mobile dependencies
 
   ```
-  cd omnistack10-mobile
+  cd omnistack11-mobile
   yarn install
   ```
 
@@ -137,4 +137,4 @@ This project is licensed under the [MIT License](LICENSE.md).
 # Acknowledgments
 
 - [Rocketseat](https://rocketseat.com.br/)
-- [Semana Omnistack 10 ](https://rocketseat.com.br/week-11/aulas)
+- [Semana Omnistack 11 ](https://rocketseat.com.br/week-11/aulas)
