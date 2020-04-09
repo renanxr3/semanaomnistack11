@@ -28,8 +28,8 @@ O BeTheHero é uma forma de conectar pessoas a ONGs que estejam precisando de do
 
 ## Mobile
 
-<img src="./assets/mobile/mobile.gif" height="500">
-<!--- ![Frontend](./assets/mobile/mobile.gif) --->
+<!---<img src="./assets/mobile/mobile.gif" height="500"> --->
+ ![Frontend](./assets/mobile/mobile.gif) 
 
 <br>
 
